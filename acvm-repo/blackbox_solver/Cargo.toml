@@ -23,7 +23,7 @@ log.workspace = true
 blake2 = "0.10.6"
 blake3 = "1.5.0"
 sha2.workspace = true
-keccak = "0.1.4"
+keccak = "0.1.6"
 k256 = { version = "0.13.4", features = [
     "ecdsa",
     "ecdsa-core",
